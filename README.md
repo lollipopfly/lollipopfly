@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timur
+Hi 👋 My name is Timur
 =============================================================================================================================
 
 i'm highly skilled Senior Frontend Developer with expertise in JavaScript, Vue, and TypeScript. Demonstrated ability to create innovative and user-friendly web applications. Passionate about staying up-to-date with the latest industry trends and technologies. Strong problem-solving and communication skills.
